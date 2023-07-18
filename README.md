@@ -1,5 +1,5 @@
 # **Credit-card-validator**
-##This is a credit card validator program written in C++
+## This is a credit card validator program written in C++
 It makes use of a header file (.h) which accepts a card number to verify from the user
 The algorithm used in the program is called "The Luhn Algorithm" 
 The algorithm is also known as the mod 10 algorithm. 
